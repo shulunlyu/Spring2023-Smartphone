@@ -12,7 +12,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     let restaurants = ["Pizzahut", "Shakeshack", "Chickfila", "KFC"]
     let Pfood = ["Fries", "Pasta", "Burger"]
     let Sfood = ["Burger", "Fries", "Milkshake"]
-    let Cfood = ["Nuggets", "Fries", "Lemonade"]
+    let Cfood = ["Nuggets", "Wings", "Lemonade"]
     let Kfood = ["Cone", "Burger", "Coke"]
     
     var selectedFoods = [String]()
