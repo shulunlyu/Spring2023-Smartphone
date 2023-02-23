@@ -48,6 +48,6 @@
         </tableViewCell>
     </objects>
     <resources>
-        <image name="food2" width="288" height="216"/>
+        <image name="food2" width="72" height="54"/>
     </resources>
 </document>
